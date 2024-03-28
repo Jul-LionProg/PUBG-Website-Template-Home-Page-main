@@ -32,6 +32,7 @@ h1, h2, h3{
     letter-spacing: 0.10em;
     font-weight: 500;
 }
+
 /* ############### utility classes ########## */
 .container{
     max-width: 1000px;
