@@ -34,6 +34,7 @@ h1, h2, h3{
 }
 
 /* ############### utility classes ########## */
+
 .container{
     max-width: 1000px;
     width: 90%;
