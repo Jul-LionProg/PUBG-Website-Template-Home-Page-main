@@ -66,6 +66,7 @@ h1, h2, h3{
 .btn-primary:hover{
     background: #ddd;
 }
+
 .btn-secondary{
     border: 2px solid red;
     border-radius: 1.5em;
