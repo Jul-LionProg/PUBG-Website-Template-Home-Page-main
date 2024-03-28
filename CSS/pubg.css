@@ -73,6 +73,7 @@ h1, h2, h3{
     background: white;
      letter-spacing: 0.15em;
 }
+
 .btn-secondary:hover{
     background: #fcf3f2;
 }
