@@ -137,6 +137,7 @@ header{
     letter-spacing: 0.2em;
     float: left;
 }
+
 .navbar .nav-items{
     float: right;
     margin-top: 1rem;
@@ -146,6 +147,7 @@ header{
     clear: both;
     display: block;
 }
+
 /* ################### header content styling ################ */
 
 .navbar .nav-item{
