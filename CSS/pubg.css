@@ -718,6 +718,14 @@ header{
     }
  }
 
+footer span a{
+    color: crimson;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
+
  /* ################# media query more than 500px ######################## */
 
  @media (min-width:501px) and (max-width:768px){
