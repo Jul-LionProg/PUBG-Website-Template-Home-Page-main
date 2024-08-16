@@ -33,8 +33,7 @@ h1, h2, h3{
     font-weight: 500;
 }
 
-/* ############### 
-utility classes ########## */
+/* ############### utility classes ########## */
 
 .container{
     max-width: 1000px;
